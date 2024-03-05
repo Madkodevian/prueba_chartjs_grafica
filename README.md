@@ -1,9 +1,6 @@
-# prueba_chartjs_grafica
-Prueba de gráfica utilizando el chartjs.
-
 <h1 align="center"># 📱Prueba_chartjs_grafica📱</h1>
 
-<h1 align="center"><img src="https://github.com/Madkodevian/Spectroom_app/assets/56256350/8c817bd7-e71f-4856-8703-3ccbb7d2dcde" width="100"></h1>
+<h1 align="center"><img src="![descarga](https://github.com/Madkodevian/prueba_chartjs_grafica/assets/56256350/dcfaaabc-148b-4582-b0e9-ed74f860bd54)" width="100"></h1>
 
 ## Table of Contents
 1. [Información general](#info)
